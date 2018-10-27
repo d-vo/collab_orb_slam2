@@ -1,0 +1,10 @@
+<package>
+  <description brief="REMOTE_ORB_SLAM2">
+     REMOTE_ORB_SLAM2
+  </description>
+  <author>Dominik Van Opdenbosch</author>
+  <license>GPLv3</license>
+  <depend package="roscpp"/>
+  <build_depend>message_generation</build_depend>
+  <run_depend>message_runtime</run_depend>
+</package>
