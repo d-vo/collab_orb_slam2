@@ -39,11 +39,14 @@ The ORB-SLAM2 collaborative extension is based on [ORB-SLAM2](https://github.com
 
 If you use our approach in an academic work, please cite:
 
-	@article{VanOpdenbosch2018,
+	@article{VanOpdenbosch2019,
 		author = {{Van Opdenbosch}, Dominik and Steinbach, Eckehard},
 		journal = {IEEE Robotics and Automation Letters (RAL)},
+		number = {1},
+		pages = {57--64},
 		title = {{Collaborative Visual SLAM using Compressed Feature Exchange}},
-		year = {2018}
+		volume = {4},
+		year = {2019}
 	}
 
 
